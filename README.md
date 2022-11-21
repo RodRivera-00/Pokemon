@@ -1,5 +1,3 @@
-# quantrics
-
 ## Project setup
 ```
 npm install
